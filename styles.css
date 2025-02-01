@@ -28,13 +28,13 @@ body {
 .header-links {
     display: flex;
     margin-left: auto;
-    padding: 0px 100px 0px 0px;
+    padding: 0px 150px 0px 0px;
 }
 
 .header-links a {
     text-decoration: none;
     color: #e5e7eb;
-    font-size: 28px;
+    font-size: 36px;
     padding: 10px;
     font-family:'Times New Roman', Times, serif;
 }
@@ -62,7 +62,7 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 72px;
     font-weight: bold;
     color: #F9FAF8;
     margin: 0;
@@ -76,7 +76,7 @@ h1 {
     border: none;
     background: yellowgreen;
     padding: 10px;
-    border-radius: 8px;
+    border-radius: 12px;
     color: #fff;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: none;
