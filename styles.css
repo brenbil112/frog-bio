@@ -20,8 +20,8 @@ body {
 }
 
 .header-logo img {
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 120px;
     margin-right: auto;
 }
 
@@ -34,7 +34,7 @@ body {
 .header-links a {
     text-decoration: none;
     color: #e5e7eb;
-    font-size: 20px;
+    font-size: 28px;
     padding: 10px;
     font-family:'Times New Roman', Times, serif;
 }
@@ -72,7 +72,7 @@ h1 {
 .hero button {
     display: block;
     text-align: center;
-    width: 150px;
+    width: 225px;
     border: none;
     background: yellowgreen;
     padding: 10px;
@@ -84,6 +84,6 @@ h1 {
 }
 
 .hero img {
-    width: 500px;
+    width: 350px;
     height: 350px;
 }
