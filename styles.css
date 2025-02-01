@@ -84,6 +84,7 @@ h1 {
 }
 
 .hero img {
+    display: flex;
     width: 350px;
     height: 350px;
     border-radius: 12px;
