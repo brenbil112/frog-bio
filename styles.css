@@ -38,3 +38,52 @@ body {
     padding: 10px;
     font-family:'Times New Roman', Times, serif;
 }
+
+.hero {
+    display: flex;
+    color: lightgreen;
+    background-color: #1f2937;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.hero-cta {
+    flex-basis: 400px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;   
+    margin-right: 50px;
+}
+
+.hero-cta p {
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.7;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    color: #F9FAF8;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hero button {
+    display: block;
+    text-align: center;
+    width: 150px;
+    border: none;
+    background: yellowgreen;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hero img {
+    width: 500px;
+    height: 350px;
+}
