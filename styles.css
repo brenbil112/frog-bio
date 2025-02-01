@@ -30,3 +30,11 @@ body {
     margin-left: auto;
     padding: 0px 100px 0px 0px;
 }
+
+.header-links link {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 20px;
+    padding: 10px;
+    font-family:'Times New Roman', Times, serif;
+}
