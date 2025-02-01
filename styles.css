@@ -31,7 +31,7 @@ body {
     padding: 0px 100px 0px 0px;
 }
 
-.header-links link {
+.header-links a {
     text-decoration: none;
     color: #e5e7eb;
     font-size: 20px;
